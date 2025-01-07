@@ -9,27 +9,17 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a DJ!
 
-</br>
-<div align="center">
-  <a href="https://github.com/brunoarrudag">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoarrudag&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoarrudag&theme=blueberry&hide_border=true"/>
-</div>
+![brunoarrudag's Stats](https://github-readme-stats.vercel.app/api?username=brunoarrudag&theme=dracula&show_icons=true&hide_border=false&count_private=true) 
 
-</br>
-<div align="center">
-  <a href="https://github.com/brunoarrudag">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarrudag&theme=blueberry&show_icons=true&hide_border=true&layout=compact"/>
-</div>
+![brunoarrudag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarrudag&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 <!--
-Link to Generate: https://gh-stats-gen.vercel.app/
+Link to Generate: https://gh-stats-gen.vercel.app/ 
 ![brunoarrudag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarrudag&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 ![brunoarrudag's Stats](https://github-readme-stats.vercel.app/api?username=brunoarrudag&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 ![brunoarrudag's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunoarrudag&theme=blueberry&hide_border=true)
 -->
-
-<div align="center">
+<div align="left">
   <div style="display: inline_block"><br>
     <img align="center" alt="Alex-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Alex-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
